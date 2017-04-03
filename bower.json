@@ -21,7 +21,7 @@
   "homepage": "https://github.com/PolymerElements/paper-swatch-picker",
   "dependencies": {
     "iron-flex-layout": "PolymerElements/iron-flex-layout#2.0-preview",
-    "iron-iconset-svg": "PolymerElements/iron-iconset-svgiron-iconset-svg",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#2.0-preview",
     "paper-icon-button": "PolymerElements/paper-icon-button#2.0-preview",
     "paper-item": "PolymerElements/paper-item#iron-iconset-svg",
     "paper-listbox": "PolymerElements/paper-listbox#iron-iconset-svg",
